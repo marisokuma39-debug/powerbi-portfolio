@@ -1,0 +1,16 @@
+diagnosis_id,admission_id,diagnosis,severity,diagnosed_on
+1,1,"Coronary Artery Disease",Severe,2024-01-15
+2,2,"Hypertensive Crisis",Critical,2024-01-20
+3,3,"Multiple Sclerosis",Moderate,2024-02-05
+4,4,"Acute Otitis Media",Mild,2024-02-18
+5,5,"Heart Failure",Critical,2024-03-01
+6,6,"Breast Cancer Stage II",Severe,2024-03-10
+7,7,"Fractured Hip",Severe,2024-03-22
+8,8,Appendicitis,Severe,2024-04-02
+9,9,Epilepsy,Moderate,2024-04-14
+10,10,"Childhood Asthma",Mild,2024-04-28
+11,11,"Atrial Fibrillation",Severe,2024-05-05
+12,12,"Type 2 Diabetes",Moderate,2024-05-12
+13,13,"Lung Cancer Stage III",Critical,2024-05-20
+14,14,"Iron Deficiency Anaemia",Mild,2024-06-01
+15,15,"Aortic Stenosis",Severe,2024-06-10

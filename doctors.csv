@@ -1,0 +1,11 @@
+doctor_id,doctor_name,speciality,dept_id,hire_date,salary
+1,"James Wilson",Cardiologist,1,2015-03-10,120000.00
+2,"Sarah Mitchell",Neurologist,2,2012-07-22,135000.00
+3,"David Okafor","Orthopedic Surgeon",3,2018-01-15,125000.00
+4,"Priya Patel",Pediatrician,4,2019-06-01,95000.00
+5,"Michael Chen",Oncologist,5,2010-11-30,145000.00
+6,"Emma Roberts","Emergency Physician",6,2016-08-14,110000.00
+7,"Yusuf Ibrahim","General Practitioner",7,2020-03-22,88000.00
+8,"Lisa Thompson",Cardiologist,1,2017-05-18,118000.00
+9,"Ahmed Hassan",Neurologist,2,2014-09-05,130000.00
+10,"Grace Obi",Pediatrician,4,2021-02-28,92000.00

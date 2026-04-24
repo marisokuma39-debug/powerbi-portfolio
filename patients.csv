@@ -1,0 +1,16 @@
+patient_id,first_name,last_name,date_of_birth,gender,blood_type,city,country,registration_date
+1,John,Adeyemi,1980-05-15,Male,O+,Lagos,Nigeria,2023-01-10
+2,Amara,Okonkwo,1975-08-22,Female,A+,Abuja,Nigeria,2023-02-14
+3,Michael,Brown,1990-03-30,Male,B+,London,UK,2023-03-05
+4,Fatima,Al-Hassan,1988-11-12,Female,AB+,Kano,Nigeria,2023-04-18
+5,David,Mensah,1965-07-04,Male,O-,Accra,Ghana,2023-05-22
+6,Grace,Nwosu,1992-01-28,Female,A-,Enugu,Nigeria,2023-06-30
+7,Robert,Taylor,1958-09-16,Male,B-,Manchester,UK,2023-07-11
+8,Chioma,Eze,1985-04-03,Female,O+,Lagos,Nigeria,2023-08-25
+9,Emmanuel,Diallo,1972-12-20,Male,A+,Dakar,Senegal,2023-09-14
+10,Ngozi,Obi,1995-06-17,Female,AB-,"Port Harcourt",Nigeria,2023-10-02
+11,Thomas,Wright,1948-02-08,Male,O+,Birmingham,UK,2023-11-19
+12,Aisha,Musa,1983-07-25,Female,B+,Kaduna,Nigeria,2024-01-07
+13,Samuel,Adebayo,1970-10-14,Male,A+,Ibadan,Nigeria,2024-02-13
+14,Blessing,Okoro,1999-03-31,Female,O-,Warri,Nigeria,2024-03-20
+15,Henry,Davies,1955-08-19,Male,AB+,Cardiff,UK,2024-04-08
